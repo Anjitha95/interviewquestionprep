@@ -12,3 +12,4 @@ Discussing the solution for frequently asked interview questions
 |4|Find Triplet|Easy|[tripletsum.py](https://github.com/Anjitha95/interviewquestionprep/blob/master/solutions/tripletsum.py)|
 |5|Is it Armstrong Number| Medium| [armstrongnumber.py](https://github.com/Anjitha95/interviewquestionprep/blob/master/solutions/armstrongnumber.py)|
 |6|Second largest Number| Easy |[secondlargest.py](https://github.com/Anjitha95/interviewquestionprep/blob/master/solutions/secondlargest.py)|
+|7|Strobogrammatic Number|Easy|[strobogrammaticnumber.py](https://github.com/Anjitha95/interviewquestionprep/blob/master/solutions/strobogrammaticnumber.py)|
